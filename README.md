@@ -27,7 +27,7 @@ I am a security-focused Software Engineer based in Harare, specializing in build
 | :--- | :--- |
 | **Telemedicine Platform** | **Visitor Management System** |
 | Built with **Angular Material** & **Cloud Firestore**. Features real-time appointment scheduling and secure patient data handling. | Built with **Angular** & **Firebase**. A digital check-in system replacing paper logs with secure, real-time visitor tracking. |
-| [🔗 View Repository](https://github.com/youngtsikai/x-point-pass) | [🔗 View Repository](https://github.com/youngtsikai/mvhc) |
+| [🔗 View Repository](https://github.com/youngtsikai/mvhc) | [🔗 View Repository](https://github.com/youngtsikai/x-point-pass) |
 
 ---
 
