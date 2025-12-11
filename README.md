@@ -26,8 +26,8 @@ I am a security-focused Software Engineer based in Harare, specializing in build
 | **My Virtual HealthCare** 🏥 | **X Point Pass** 🎫 |
 | :--- | :--- |
 | **Telemedicine Platform** | **Visitor Management System** |
-| Built with **Angular Material** & **Cloud Firestore**. Features real-time appointment scheduling and secure patient data handling. | Built with **Ionic/Angular** & **Firebase**. A digital check-in system replacing paper logs with secure, real-time visitor tracking. |
-| [🔗 View Repository](https://github.com/youngtsikai/REPO_NAME_HERE) | [🔗 View Repository](https://github.com/youngtsikai/REPO_NAME_HERE) |
+| Built with **Angular Material** & **Cloud Firestore**. Features real-time appointment scheduling and secure patient data handling. | Built with **Angular** & **Firebase**. A digital check-in system replacing paper logs with secure, real-time visitor tracking. |
+| [🔗 View Repository](https://github.com/youngtsikai/x-point-pass) | [🔗 View Repository](https://github.com/youngtsikai/mvhc) |
 
 ---
 
